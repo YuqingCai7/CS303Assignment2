@@ -98,3 +98,51 @@ Since the list we were using previously was not empty, the program correctly res
 
 ![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/fef679f8-4a1b-45ca-8571-72d4743da9d5)
 
+## Stack
+
+### Empty
+
+To check whether the stack is empty, we need to first create a stack: 
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/ee316b50-6de4-4e98-ad6e-48231acb5887)
+
+Here, I created a stack called bigmac, and used the function empty to check whether the stack is empty.
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/c7591b1d-4d5f-45a2-9b5c-60bc58038d0d)
+
+Since no items have been added to list, the function responded with the list is empty correctly.
+
+### Push
+
+Similar as linked list, we will use push to add new items to the list, with the exception that stack can only add from the top:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/62908da5-53aa-44c7-8326-bad896cfdfee)
+
+Here, I tried to add 3 numbers: 50, 90, and 100 to the stack.
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/8f8f4058-a88a-477c-b648-fa0d1397b50a)
+
+As we can see here, the numbers were added to the stack sucessfully.
+
+### Pop
+
+Likewise, to delete a number from the stack, we can use pop to achieve such goal:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/7300e3ad-78e2-4331-87d1-4f8cc023fad2)
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/d0051dbf-bf88-4264-92f4-ba7f91fc1333)
+
+As a result, the original top(50) was deleted by pop.
+
+### Average
+
+To find the average number of all elements in the stack, we can use average to achieve this goal:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/5d79994b-7239-4aa3-acc6-90c09c1bd2bd)
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/cee1b6d7-4892-4083-a611-85a44bf0210f)
+
+Since 50 has been deleted from the stack and the remaining numbers are 100 and 90, the program correctly returned the average number (95).
+
+
+
