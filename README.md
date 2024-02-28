@@ -16,7 +16,7 @@ As we can see, the numbers were added sucessfully.
 
 We will also attempt to add numbers from the back of the list by using the push_back function.Which can be seen below:
 
-![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/b4ebe60e-790a-4543-9632-f4ab56b312ad)
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/cb9500ea-51e6-4bff-a87f-276582ab1aa2)
 
 Here, we can see the original list has added new values: 4, 5, 6 to the back of the list.
 
@@ -31,5 +31,6 @@ To delete an item from the beginning of the list, we will use the pop_front func
 
 Here, we can see that the number 1 no longer exist as it has been removed by pop_front:
 
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/993f310c-68a3-4b09-8ca3-d9ab02f99f40)
 
 
