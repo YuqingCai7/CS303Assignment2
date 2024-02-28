@@ -52,8 +52,28 @@ To check the the first or the last number of the list, we will use the function 
 
 ![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/ac467b0e-3d0b-46e0-9ede-68dc284d31d2)
 
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/4863821a-678a-44ec-b9f8-9c8b5d472b11)
 
+As we can see here, the functions correctly responded with the first and last element of the list, which is 2 and 5.
 
+### Insert
 
+To insert at a number at a specific index of the list, we will use the function insert:
 
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/bd45ee57-6be7-4ee3-bc2f-aa3996ed6751)
 
+From the list previously, this code attempted to add 10, 20, 30 at index 0, 1, 2 accordingly. Here is the result:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/a8b487b3-cdc1-4076-ab56-073fdc918f56)
+
+### Remove
+
+In contrast to insert, we will use remove to delete a number at a specific index: 
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/25374ac1-6980-4268-b6b2-91f3fccc2fcf)
+
+As an experiment, let's try to delete the number at index 2:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/cb01a8ac-645b-4562-883e-3427742e4c95)
+
+As we can see, the number at index 2(30) has been deleted. 
