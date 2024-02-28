@@ -8,4 +8,28 @@ The first function to implement into our linked list is the push_front function.
 
 ![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/cc94db3f-3519-4211-9583-52c25e93379b)
 
+As we can see, the numbers were added sucessfully. 
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/cb576cb7-f3a2-44f9-8872-d1481689fa53)
+
+### Push_Back
+
+We will also attempt to add numbers from the back of the list by using the push_back function.Which can be seen below:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/b4ebe60e-790a-4543-9632-f4ab56b312ad)
+
+Here, we can see the original list has added new values: 4, 5, 6 to the back of the list.
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/3f970c02-943b-49df-8c6f-001a5b5eaf19)
+
+
+### Pop_Front
+
+To delete an item from the beginning of the list, we will use the pop_front function:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/c08cd41d-10ca-44b8-abc5-e9cb7bb01b66)
+
+Here, we can see that the number 1 no longer exist as it has been removed by pop_front:
+
+
 
