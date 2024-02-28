@@ -77,3 +77,24 @@ As an experiment, let's try to delete the number at index 2:
 ![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/cb01a8ac-645b-4562-883e-3427742e4c95)
 
 As we can see, the number at index 2(30) has been deleted. 
+
+### Find
+
+To locate the index of a desireable number, we will use the function find:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/69469a93-a6ae-40aa-a64d-2892fd1440ee)
+
+Here, we attempted to locate the number 20 in the list. As we can see, the program responded with the correct index for the number. 
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/ce95f18f-fc8b-458c-bf2e-571adfb97e03)
+
+### Empty
+
+To check whether the list is empty, we will use the function empty:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/df79707c-496c-4bb7-bcd5-c335b2231eb7)
+
+Since the list we were using previously was not empty, the program correctly responded with that information.
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/fef679f8-4a1b-45ca-8571-72d4743da9d5)
+
