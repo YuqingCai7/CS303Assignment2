@@ -124,7 +124,7 @@ Here, I tried to add 3 numbers: 50, 90, and 100 to the stack.
 
 As we can see here, the numbers were added to the stack sucessfully.
 
-### Pop
+### Pop/Top
 
 Likewise, to delete a number from the stack, we can use pop to achieve such goal:
 
@@ -132,7 +132,7 @@ Likewise, to delete a number from the stack, we can use pop to achieve such goal
 
 ![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/d0051dbf-bf88-4264-92f4-ba7f91fc1333)
 
-As a result, the original top(50) was deleted by pop.
+To see the result, we will use the function top. As we can see, the original top(50) has been deleted, and the new top is now 90.
 
 ### Average
 
