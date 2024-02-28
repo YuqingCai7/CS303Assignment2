@@ -27,10 +27,33 @@ Here, we can see the original list has added new values: 4, 5, 6 to the back of 
 
 To delete an item from the beginning of the list, we will use the pop_front function:
 
-![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/c08cd41d-10ca-44b8-abc5-e9cb7bb01b66)
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/af7e99f0-acff-41a9-828f-f7ad4d91a884)
+
 
 Here, we can see that the number 1 no longer exist as it has been removed by pop_front:
 
 ![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/993f310c-68a3-4b09-8ca3-d9ab02f99f40)
+
+
+### Pop_Back
+
+Similar as the push function, we will also try to delete a number from the back by using the pop_back function:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/14236ef7-25b7-4d01-a72f-a5e65b0fc715)
+
+After using pop_back, the last number, 6, was deleted from the list.
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/1b51b7af-af28-4ef6-ab85-674034b8027b)
+
+
+### Front and Back
+
+To check the the first or the last number of the list, we will use the function front and back. Here is a quick overview of the functions:
+
+![image](https://github.com/YuqingCai7/CS303Assignment2/assets/143641552/ac467b0e-3d0b-46e0-9ede-68dc284d31d2)
+
+
+
+
 
 
